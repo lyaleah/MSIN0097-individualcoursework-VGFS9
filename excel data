@@ -1,4 +1,14 @@
 Copy of HF 2025 Closed Complaints data
-Row: Title: Content: explanation
+Column: Title: Content of the first row: Explanation
 A: Case Number: COM-05912-S2L7: identifiable #
 B: Owner: Jade Squire: names of employees
+C: Account Number: 60006208: account number of customers, 8 numbers might add LT or RE at the beginning,  contains several N/A or blanks
+D: Complaint Channel: Customer: could be customer/broker/third party
+E: Method of Receipt: Telephone: methods of channels describing how complaints are received
+F: CEO Complaint: No: could be Yes/No
+G: Data Issue: No: could be Yes/No
+H: Complaint Open Date: 07/01/2026: open date of the complaints, no blanks
+I: Ack. Sent: No: could be Yes/No
+J: Date Ack. Sent: (blanks): date of the Ack.sent, contains blanks
+K: Complaint Close Date: 07/01/2026: close date of the complaints, no blanks
+L: FRC/SRC CLosure: SRC: 
